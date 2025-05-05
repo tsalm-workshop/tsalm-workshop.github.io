@@ -37,7 +37,6 @@ profiles:
       <p>AWS Central Economics </p><br>
       <p>Seattle (US)</p><br>
       <p><a href=https://scholar.google.co.il/citations?user=jCdl9g8AAAAJ&hl=en>google scholar</a> </p>
-      <p><a href="mailto: imryki@gmail.com">imryki@gmail.com</a></p>
       
   - align: left 
     image: organizers/moshe.jpg
