@@ -13,29 +13,20 @@ social: true # includes social icons at the bottom of the page
 ---
 
 The 1st ICLR Workshop on **Time Series in the Age of Large Models (TSALM)** will be held at the Riocentro Convention and Event Center in Rio de Janeiro, Brazil on **April 26/27, 2026**.
-We look forward to welcoming you in Rio de Janeiro. 
-
-Archival link to the previous version of this workshop: [NeurIPS 2024](neurips-2024/). 
+We look forward to welcoming you in Rio de Janeiro.
 
 ### Introduction
 
-Foundation models have revolutionized the approach to building machine learning models in areas like natural language processing, where models are pretrained on large amounts of diverse data and then adapted for downstreams tasks, often in a _zero-shot_ fashion.
-This approach has begun to gain traction in the time series community.
-Recent works have developed and open-sourced foundation models for time series tasks, particularly forecasting.
-Additionally, some studies have shown positive results by either leveraging pretrained models from other modalities, such as text, for time series tasks or enhancing time series analysis through exogenous information from other modalities.
-These advancements have opened new research directions and challenges related to the development, analysis, evaluation, and real-world applications of large models for time series tasks.
-This workshop aims to provide a forum for researchers and practitioners to understand the progress made and push the frontier of time series research in the era of large models.
+Building on our [NeurIPS 2024 workshop](/neurips-2024/), this iteration focuses on key open problems in time series foundation models: context-informed predictions, reasoning and agents, interpretability, and rigorous evaluation.
 
-The key topics of this workshop include, but are not limited to:
-- Building Time Series Foundation Models
-- Analysis of Pretrained Time Series Models
-- Critiques on Time Series Foundation Models
-- Faster and Better Inference Schemes for Autoregressive Time Series Models
-- Leveraging Pretrained Models of Other Modalities for Time Series
-- Multimodal Time Series Models
-- Large-Scale Time Series Datasets and Benchmarks
-- Time Series Evaluation
-- Real-World Applications of Large Time Series Models
+While recent time series foundation models have shown promise for univariate forecasting, most practical scenarios require additional context—multivariate relationships, exogenous variables, or information from other modalities such as text. Simultaneously, LLM-powered agents are opening new possibilities for automating time series analysis workflows, though research in this area remains nascent. As these models are increasingly deployed in high-stakes domains, understanding their inner workings and failure modes becomes critical.
+
+The key topics of this workshop include:
+- **Context-informed foundation models:** Multivariate forecasting, static and dynamic exogenous variables, multimodal time series, anomaly detection, and classification
+- **Reasoning and agents:** LLM-powered agents for time series tasks, agentic scaffolds, and benchmarks for evaluating agent performance
+- **Benchmarks, datasets, and tools:** Unified evaluation frameworks, large-scale and live benchmarks, synthetic data generation, and open-source libraries for pretraining and inference
+- **Interpretability:** Attention analysis, feature attribution, symbolic distillation, and causal interpretability for large time series models
+- **Evaluation and applications:** Metrics for probabilistic prediction, domain-specific evaluation, and applications in finance, healthcare, climate science, and dynamical systems
 
 Please see the [Call for Papers](/call-for-papers/) for details.
 
