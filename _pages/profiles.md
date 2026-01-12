@@ -40,7 +40,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>Amazon Web Services</p><br>
-      <p>Pittsburgh (US)</p><br>
+      <p>Seattle (US)</p><br>
       <p><a href="http://mononito.com">website</a>, <a href="https://scholar.google.com/citations?user=TgQ72t0AAAAJ&hl=en&oi=ao">google scholar</a></p>
 
   - align: right
@@ -57,8 +57,8 @@ profiles:
     content: organizers/chenghao.md
     image_circular: false
     more_info: >
-      <p>Salesforce AI Research</p><br>
-      <p>Palo Alto (US)</p><br>
+      <p>Datadog AI Research</p><br>
+      <p>Paris (FR)</p><br>
       <p><a href="https://scholar.google.com/citations?user=OvwvSXwAAAAJ&hl=en&oi=ao">google scholar</a></p>
 
   - align: right
@@ -67,7 +67,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>Amazon Web Services</p><br>
-      <p>San Diego (US)</p><br>
+      <p>Santa Clara (US)</p><br>
       <p><a href="https://xiyuanzh.github.io/">website</a>, <a href="https://scholar.google.com/citations?hl=en&user=pIEuyR8AAAAJ">google scholar</a></p>
 
   - align: left
