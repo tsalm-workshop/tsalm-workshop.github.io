@@ -7,46 +7,57 @@ nav: true
 nav_order: 1
 ---
 
-We welcome researchers working in the field of time series analysis to submit their latest original research work to the NeurIPS 2024 workshop on **Time Series in the Age of Large Models**.
+We welcome researchers working in the field of time series analysis to submit their latest work to the ICLR 2026 workshop on **Time Series in the Age of Large Models**.
 
-## Key Information
+## Key Dates
 
-**Update Nov 26**: The list of accepted papers is available [here](/accepted-papers/) and the PDFs are available at the linked OpenReview pages.
+All deadlines are 11:59 pm AoE.
 
-<del>**Update Oct 10**: Decisions have been released. **Titles and abstracts of all accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept).** PDFs will be made public at the camera-ready stage.</del>
+- Submission deadline: **February 14, 2026**
+- Acceptance notification: March 1, 2026
+- Camera ready deadline: TBD
 
-<del>**Update Oct 9:** Due to a large number of submissions, we will announce the decisions on Oct 10 instead of on Oct 9.</del>  
+Submission link: **[OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/TSALM)**
 
-- Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
-- Submission deadline: Sep 15, 2024 (11:59 pm AoE)
-- Acceptance notification: <del>Oct 09, 2024</del> Oct 10, 2024 (anytime before 11:59 AoE)
-- Camera ready deadline: <del>Nov 15, 2024</del> Nov 25, 2024 (7 PM EST) 
+## Submission Tracks
+
+We welcome submissions across two tracks:
+
+### Research Track (max 4 pages)
+
+We invite research papers presenting novel theoretical insights, methodological advances, or empirical findings related to time series foundation models.
+
+### Industry & Applications Track (max 2 pages)
+
+Recognizing that significant innovation occurs beyond academic settings, we welcome submissions from industry practitioners, open-source contributors, and applied researchers. This track prioritizes practical impact and real-world insights over strict novelty requirements. Submissions may include (a) implementation and evaluation of simple but unpublished ideas, (b) self-contained theoretical results or proofs-of-concept, (c) follow-up experiments or re-analyses of existing work, (d) critiques or novel interpretations of published research, (e) real-world deployment experiences and lessons learned, (f) open-source tools, libraries, datasets, and frameworks, and (g) large-scale applications and production systems.
 
 ## Submission Instructions
 
-Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)** in a single `.pdf` file using **[this LaTeX style template](../assets/latex/timeseries-workshop-latex-template.zip)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
+Submissions should take the form of a short paper of up to 2 or 4 pages. Additional pages containing references and appendices are allowed but reviewers are _not obliged_ to refer to the appendices. Submissions should be made on **OpenReview** in a single `.pdf` file using **[this LaTeX style template](../assets/latex/tsalm-iclr2026-workshop-template.zip)**. The review process is _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review.
 
-All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
+All accepted submissions will be accompanied by a poster presentation. Selected submissions will be invited for oral talks.
 
-**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at NeurIPS 2024 is allowed.
+**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared at a venue, it should be reasonably extended in order to be accepted at this workshop.
+
+**Author LLM Use Policy**: Please refer to [ICLR 2026's LLM use policy for authors](https://iclr.cc/Conferences/2026/ReviewerGuide). 
 
 ## Scope and Topics
 
 We invite submissions related to the theme of time series in the age of large models. Key topics include, but are not limited to:
 
-- **Building Time Series Foundation Models**: The heterogeneity of time series data and tasks presents unique challenges in developing time series foundation models. We welcome contributions exploring various design choices and improving our understanding of how these models scale with the amount and diversity of data.
-- **Analysis of Pretrained Time Series Models**: Pretrained time series models are often criticized for their black-box nature, especially compared to interpretable statistical models. We encourage submissions that analyze pretrained time series models to enhance our understanding of their learning processes.
-- **Critiques on Time Series Foundation Models**: Contributions highlighting the limitations and failure modes of time series foundation models through theoretical analysis or systematic empirical evaluations are welcome.
-- **Faster and Better Inference Schemes for Autoregressive Time Series Models**: Single-step autoregressive time series foundation models are generally slower than multi-step models, such as those based on patching. We invite submissions comparing these techniques and developing methods to improve the inference speed and quality of autoregressive time series models.
-- **Leveraging Pretrained Models of Other Modalities for Time Series**: Recent studies show promise in adapting pretrained LLMs to specialized time series tasks. We seek to understand how design choices in leveraging these models—such as prompting techniques, adaptation methods, and fine-tuning—impact performance. We also seek to identify scenarios where these methods excel compared to training time series foundation models from scratch, in terms of model capabilities, accuracy, and training and inference times.
-- **Multimodal Time Series Models**: Most time series models handle only numerical data, often providing a partial picture of the system of interest. In real-world settings, multiple modalities are available, and incorporating exogenous information, such as text, can enhance performance. We invite submissions exploring time series models that integrate information from other modalities.
-- **Large-Scale Time Series Datasets and Benchmarks**: The quality and quantity of publicly available time series data lag behind other modalities, such as text and vision. We welcome contributions of large-scale time series data (both general and domain-specific) and benchmarks comparing various time series foundation models. We also invite methods for better synthetic time series generation and augmentation to address data challenges.
-- **Time Series Evaluation**: We seek contributions on the analysis, comparison, and development of metrics for time series tasks, including metrics for probabilistic forecasting, multivariate forecasting, and use-case motivated metrics.
-- **Real-World Applications of Large Time Series Models**: We invite contributions showcasing the potential of large time series models in real-world domains, such as energy, healthcare, retail, human mobility, and finance.
+- **Context-informed foundation models for time series:** Most prior work has focused on univariate forecasting, but practical scenarios often require additional context. We welcome contributions on multivariate forecasting, forecasting with static and dynamic exogenous variables, and multimodal forecasting where context comes from other modalities such as text or images. We particularly encourage context-informed models for anomaly detection and classification.
 
-## Call for reviewers (closed)
+- **Reasoning and time series ML agents:** LLM-powered agents have the potential to democratize ML by enabling domain experts to seamlessly integrate foundation models with classical methods. We welcome submissions on novel agents and scaffolds for time series modeling, benchmarks for evaluating agent performance, and work exploring when agents with time series tools are preferable to tailored foundation models. We also encourage work on reasoning capabilities in time series models, both explicit (e.g., ReAct, CodeAct) and implicit.
 
-We are also looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform).
+- **Benchmarks, datasets, and tools:** We welcome contributions proposing unified benchmarking frameworks, diverse large-scale datasets reflecting real-world complexity, and "live" benchmarks that mitigate memorization concerns. We also encourage work on synthetic data generation for pretraining and open-source tools for large-scale pretraining and inference.
+
+- **Interpretability of large time series models:** As these models are deployed in high-stakes domains, understanding their inner workings becomes critical. We seek methods providing transparency into predictions, including attention analysis, feature attribution, symbolic distillation, and causal interpretability. We also welcome work examining how interpretability methods scale with model size and differ across architectures.
+
+- **Evaluation and real-world applications:** We invite contributions on improved metrics for probabilistic prediction, domain-specific evaluation setups, and work bridging forecasting and downstream decision-making. We also welcome applications in domains such as dynamical systems, finance, human mobility, weather, and healthcare.
+
+## Call for Reviewers
+
+We are looking for reviewers for the workshop. If you would like to serve as a reviewer, please fill out this [Google form](https://forms.gle/33Qz2QjEy6w3sTtG7).
 
 ## Reviewer Guidelines
 
@@ -73,6 +84,8 @@ Papers that should not be accepted include
 - papers that incorrectly claim novelty over existing published work, and
 - papers that merely re-implement an idea that has already been reproduced before.
 
+**Reviewer LLM Use Policy**: Please refer to [ICLR 2026's LLM use policy for reviewers](https://iclr.cc/Conferences/2026/ReviewerGuide). 
+
 ### Review Format
 
 A review should have the following content.
@@ -83,4 +96,4 @@ A review should have the following content.
 
 ## Contact
 
-If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [neurips-time-series-workshop@googlegroups.com](mailto:neurips-time-series-workshop@googlegroups.com).
+If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [tsalm-workshop@googlegroups.com](mailto:tsalm-workshop@googlegroups.com).
