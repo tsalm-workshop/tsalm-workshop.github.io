@@ -96,4 +96,4 @@ A review should have the following content.
 
 ## Contact
 
-If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [tsalm-workshop@googlegroups.com](mailto:tsalm-workshop@googlegroups.com).
+If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [iclr-2026-tsalm-workshop-organizers@googlegroups.com](mailto:iclr-2026-tsalm-workshop-organizers@googlegroups.com).
