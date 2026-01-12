@@ -1,10 +1,1 @@
-**Abdul Fatir Ansari** is an Applied Scientist at Amazon Web Services working on
-time series forecasting and log analytics. He received his PhD in 2022 from the
-National University of Singapore where he was supervised by Prof. Harold Soh.
-During his PhD, Abdul Fatir worked on deep generative models for images and
-time series and was awarded the dean’s award for his PhD research. He has
-published in and served as a reviewer in top machine learning venues such as
-ICML, ICLR and NeurIPS. His broad research interests lie in the areas of time
-series analysis and generative modeling, encompassing probabilistic generative
-modeling (both implicit and explicit), variational inference, unsupervised
-learning, and representation learning. 
+**Abdul Fatir Ansari** is a Senior Applied Scientist at Amazon Web Services, focusing on time series forecasting. He is the lead developer of the Chronos family of time series foundation models, which ranked among the most downloaded models on HuggingFace in 2024. He received his PhD in 2022 from the National University of Singapore under the supervision of Prof. Harold Soh. During his PhD, he worked on deep generative models for images and time series, receiving the Dean's Award for his research. He has published in and reviewed for top machine learning conferences including ICML, ICLR, and NeurIPS, and was twice recognized as a top reviewer. He co-organized the "Time Series in the Age of Large Models" and "Foundation Models for Structured Data" workshops at NeurIPS 2024 and ICML 2025, respectively. 
