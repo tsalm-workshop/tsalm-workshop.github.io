@@ -32,7 +32,7 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 ### Schedule
 
-**April 26, 2026, Riocentro Convention and Event Center**
+**April 26, 2026, [Riocentro Convention and Event Center](https://share.google/bU0RZrsghl2kADaxv), Rio de Janeiro, Brazil**
 
 All times are in the America/Sao_Paulo time zone. The schedule will be further refined in the weeks leading up to the workshop.
 
