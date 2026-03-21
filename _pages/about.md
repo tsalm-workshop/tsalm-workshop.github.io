@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-The 1st ICLR Workshop on **Time Series in the Age of Large Models (TSALM)** will be held at the Riocentro Convention and Event Center in Rio de Janeiro, Brazil on **April 26/27, 2026**.
+The 1st ICLR Workshop on **Time Series in the Age of Large Models (TSALM)** will be held at the Riocentro Convention and Event Center in Rio de Janeiro, Brazil on **April 26, 2026**.
 We look forward to welcoming you in Rio de Janeiro.
 
 ### Introduction
