@@ -32,6 +32,24 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 ### Schedule
 
-**April 26 or 27, 2026, Riocentro Convention and Event Center**
+**April 26, 2026, Riocentro Convention and Event Center**
 
-Coming soon.
+All times are in the America/Sao_Paulo time zone. The schedule will be further refined in the weeks leading up to the workshop.
+
+| **Time**                                | **Event**                                                                                                                                                                   |
+|:------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:00 - 09:10                 | 🎤 **Opening Remarks**                                                                                                                                              |
+| 09:10 - 09:45                 | 🎓 **Invited Talk by Bernie Wang** <br />            |
+| 09:45 - 10:05                 | 📢 **Contributed Oral Talks (x2)**                                                                              |
+| 10:05 - 10:40                 | 🎓 **Invited Talk by Pablo Montero-Manso** <br />                                                                                        |
+| 10:40 - 12:00                 | 🖼️ **Poster Session 1**                                                                                                                                   |
+| 12:00 - 13:00                 | 🥗 **Lunch & Networking Session**                                                                                                                                                             |
+| 13:00 - 13:35                 | 🎓 **Invited Talk by Rose Yu** <br />                                                                                       |
+| 13:35 - 13:55                 | 📢 **Contributed Oral Talks (x2)**                                                                              |
+| 13:55 - 14:30                 | 🎓 **Invited Talk by Othmane Abou-Amal** <br />                                                                                       |
+| 14:30 - 15:30                 | 🖼️ **Poster Session 2**                                                                                                                                 |
+| 15:30 - 16:05                 | ☕ **Coffee & Networking Session**                                                                                                                                     |
+| 16:05 - 16:35                 | 💡 **Spotlight Talks (x6)** <br />                                                                                                                                     |
+| 16:35 - 17:00                 | 🎬 **Closing Remarks & Community Feedback**                                          |
+{: .table}
+{: .table-striped}
