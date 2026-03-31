@@ -21,7 +21,7 @@ profiles:
     content: organizers/arjun.md
     image_circular: false
     more_info: >
-      <p>ServiceNow Research, Mila-Quebec AI Institute, University of Montreal</p><br>
+      <p>Mila-Quebec AI Institute, University of Montreal</p><br>
       <p>Montreal (CA)</p><br>
       <p><a href="https://ashok-arjun.github.io/">website</a>, <a href="https://scholar.google.com.sg/citations?hl=en&user=4ur98b4AAAAJ&view_op=list_works&authuser=2&sortby=pubdate">google scholar</a></p>
 
