@@ -35,6 +35,12 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 <img src="/assets/img/SUSQUEHANNA_Logo_Black.png" alt="SIGlogo" class="img-fluid" style="max-width: 300px;" />
 
+<p>
+    <strong>Thanks to our sponsor, there will be cash awards for the best papers!</strong> <br>
+    We will also have exclusive snacks and refreshments directly in the workshop hall. <br>
+    <em>Join us if you'll be attending in person!</em>
+  </p>
+  
 ### Schedule
 
 **April 26, 2026, [Riocentro Convention and Event Center](https://share.google/bU0RZrsghl2kADaxv), Rio de Janeiro, Brazil**
@@ -55,6 +61,6 @@ All times are in the America/Sao_Paulo time zone (UTC-3). The schedule will be f
 | 15:00 - 15:30 | ☕ **Coffee Break** |
 | 15:30 - 16:05 | 🎓 **Invited Talk by Rose Yu** |
 | 16:05 - 16:40 | 🎓 **Invited Talk by Othmane Abou-Amal** |
-| 16:40 - 17:00 | 🎬 **Closing Remarks, Awards & Community Feedback** |
+| 16:40 - 17:00 | 🎬 **Closing Remarks** |
 {: .table}
 {: .table-striped}
