@@ -31,6 +31,10 @@ The key topics of this workshop include:
 Please see the [Call for Papers](/call-for-papers/) for details.
 
 
+*We are very grateful to have been sponsored by [Susquehanna International Group]*
+
+<img src="/assets/img/SUSQUEHANNA_Logo_Black.png" alt="SIGlogo"/>
+
 ### Schedule
 
 **April 26, 2026, [Riocentro Convention and Event Center](https://share.google/bU0RZrsghl2kADaxv), Rio de Janeiro, Brazil**
