@@ -33,7 +33,7 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 **We are very grateful to have been sponsored by Susquehanna International Group**
 
-<img src="/assets/img/SUSQUEHANNA_Logo_Black.png" alt="SIGlogo" width="200" height="200"/>
+<img src="/assets/img/SUSQUEHANNA_Logo_Black.png" alt="SIGlogo" class="img-fluid" style="max-width: 300px;" />
 
 ### Schedule
 
