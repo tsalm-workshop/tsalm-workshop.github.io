@@ -31,7 +31,7 @@ The key topics of this workshop include:
 Please see the [Call for Papers](/call-for-papers/) for details.
 
 
-*We are very grateful to have been sponsored by Susquehanna International Group.
+**We are very grateful to have been sponsored by Susquehanna International Group**
 
 <img src="/assets/img/SUSQUEHANNA_Logo_Black.png" alt="SIGlogo" width="200" height="200"/>
 
