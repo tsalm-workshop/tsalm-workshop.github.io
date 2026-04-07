@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /speakers/
 title: Speakers 
-description: The workshop features a diverse group of invited speakers who will deliver keynote talks.
 nav: true
 nav_order: 6
 
