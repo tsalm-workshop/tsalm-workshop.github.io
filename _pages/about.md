@@ -51,7 +51,7 @@ All times are in the America/Sao_Paulo time zone (UTC-3). The schedule will be f
 |:---:|:---|
 | 09:00 - 09:10 | 🎤 **Opening Remarks** |
 | 09:10 - 09:45 | 🎓 **Invited Talk by Bernie Wang** |
-| 09:45 - 10:00 | 💡 **Spotlight Session 1** <br><br> • **09:45 - 09:50:** [Hindsight Preference Optimization for Financial Time Series Advisory](https://openreview.net/forum?id=nq64r86v3n) (Virtual) <br> • **09:50 - 09:55:** [TS-Arena: A Live Forecast Pre-Registration Platform for Leakage-Free Evaluation of Time Series Foundation Models](https://openreview.net/forum?id=TcKLyWrfZT) (In-Person) <br> • **09:55 - 10:00:** [Narrative of Time across Scales (NoTS)](https://openreview.net/forum?id=Nt3gqkZ2l7) (Virtual) |
+| 09:45 - 10:00 | 💡 **Spotlight Session 1** <br><br> • **09:45 - 09:50:** [Hindsight Preference Optimization for Financial Time Series Advisory](https://openreview.net/forum?id=nq64r86v3n) (Virtual) <br> • **09:50 - 09:55:** [TS-Arena: A Live Forecast Pre-Registration Platform for Leakage-Free Evaluation of Time Series Foundation Models](https://openreview.net/forum?id=TcKLyWrfZT) <br> • **09:55 - 10:00:** [Narrative of Time across Scales (NoTS)](https://openreview.net/forum?id=Nt3gqkZ2l7) (Virtual) |
 | 10:00 - 10:25 | ☕ **Coffee Break** |
 | 10:25 - 11:00 | 🎓 **Invited Talk by Pablo Montero-Manso** |
 | 11:00 - 12:00 | 🖼️ **Poster Session 1** |
