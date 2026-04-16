@@ -51,16 +51,16 @@ All times are in the America/Sao_Paulo time zone (UTC-3). The schedule will be f
 |:---:|:---|
 | 09:00 - 09:10 | 🎤 **Opening Remarks** |
 | 09:10 - 09:45 | 🎓 **Invited Talk by Bernie Wang** |
-| 09:45 - 10:00 | 💡 **Spotlight Session 1** <br><br> • **09:45 - 09:50:** [Hindsight Preference Optimization for Financial Time Series Advisory](https://openreview.net/forum?id=nq64r86v3n) <br> • **09:50 - 09:55:** [TS-Arena: A Live Forecast Pre-Registration Platform for Leakage-Free Evaluation of Time Series Foundation Models](https://openreview.net/forum?id=TcKLyWrfZT) <br> • **09:55 - 10:00:** [Narrative of Time across Scales (NoTS)](https://openreview.net/forum?id=Nt3gqkZ2l7) |
+| 09:45 - 10:00 | 💡 **Spotlight Session 1** <br><br> • **09:45 - 09:50:** [Hindsight Preference Optimization for Financial Time Series Advisory](https://openreview.net/forum?id=nq64r86v3n) (Virtual) <br> • **09:50 - 09:55:** [TS-Arena: A Live Forecast Pre-Registration Platform for Leakage-Free Evaluation of Time Series Foundation Models](https://openreview.net/forum?id=TcKLyWrfZT) (In-Person) <br> • **09:55 - 10:00:** [Narrative of Time across Scales (NoTS)](https://openreview.net/forum?id=Nt3gqkZ2l7) (Virtual) |
 | 10:00 - 10:25 | ☕ **Coffee Break** |
 | 10:25 - 11:00 | 🎓 **Invited Talk by Pablo Montero-Manso** |
 | 11:00 - 12:00 | 🖼️ **Poster Session 1** |
 | 12:00 - 13:00 | 🥗 **Lunch Break** |
 | 13:00 - 13:30 | 🤝 **Dedicated Networking Session** |
-| 13:30 - 13:55 | 💡 **Spotlight Session 2** <br><br> • **13:30 - 13:35:** [ARFBench: Benchmarking Multimodal Time Series Reasoning for Software Incident Response](https://openreview.net/forum?id=C4AXJvsgT6) <br> • **13:35 - 13:40:** [Overcoming the Modality Gap in Context-Aided Forecasting](https://openreview.net/forum?id=QC3CYutko1) <br> • **13:40 - 13:45:** [Finding the Zeitgeist in Time Series Foundation Models](https://openreview.net/forum?id=7SP3orvHPy) <br> • **13:45 - 13:50:** [The Arrow of Time: What Tabular Foundation Models Miss in Time Series Forecasting](https://openreview.net/forum?id=zE9CFg6Rp1) <br> • **13:50 - 13:55:** [Does Normalization Choice Matter for Causal Large Time-Series Models?](https://openreview.net/forum?id=lMNWBnFHxt) |
+| 13:30 - 13:55 | 💡 **Spotlight Session 2** <br><br> • **13:30 - 13:35:** [ARFBench: Benchmarking Multimodal Time Series Reasoning for Software Incident Response](https://openreview.net/forum?id=C4AXJvsgT6) (Virtual) <br> • **13:35 - 13:40:** [Overcoming the Modality Gap in Context-Aided Forecasting](https://openreview.net/forum?id=QC3CYutko1) (Virtual) <br> • **13:40 - 13:45:** [Finding the Zeitgeist in Time Series Foundation Models](https://openreview.net/forum?id=7SP3orvHPy) <br> • **13:45 - 13:50:** [The Arrow of Time: What Tabular Foundation Models Miss in Time Series Forecasting](https://openreview.net/forum?id=zE9CFg6Rp1) <br> • **13:50 - 13:55:** [Does Normalization Choice Matter for Causal Large Time-Series Models?](https://openreview.net/forum?id=lMNWBnFHxt) |
 | 13:55 - 15:00 | 🖼️ **Poster Session 2** |
 | 15:00 - 15:30 | ☕ **Coffee Break** |
-| 15:30 - 16:05 | 🎓 **Invited Talk by Rose Yu** |
+| 15:30 - 16:05 | 🎓 **Invited Talk by Rose Yu** (Virtual)|
 | 16:05 - 16:40 | 🎓 **Invited Talk by Othmane Abou-Amal** |
 | 16:40 - 17:00 | 🎬 **Closing Remarks** |
 {: .table}
