@@ -40,6 +40,18 @@ Please see the [Call for Papers](/call-for-papers/) for details.
     We will also have exclusive snacks and refreshments directly in the workshop hall. <br>
     <em>Join us if you'll be attending in person!</em>
   </p>
+
+---
+
+### Best Paper Awards
+
+The program committee has selected the following papers for the **Best Paper Awards**. Congratulations to the authors on their recognition.
+
+* **[Finding the Zeitgeist in Time Series Foundation Models](https://openreview.net/forum?id=7SP3orvHPy)** *Felix Divo, Maurice Kraus, Ruben Härle, Patrick Ahrend, Kristian Kersting*
+* **[Overcoming the Modality Gap in Context-Aided Forecasting](https://openreview.net/forum?id=QC3CYutko1)** *Vincent Zhihao Zheng, Étienne Marcotte, Arjun Ashok, Andrew Robert Williams, Lijun Sun, Alexandre Drouin, Valentina Zantedeschi*
+* **[The Arrow of Time: What Tabular Foundation Models Miss in Time Series Forecasting](https://openreview.net/forum?id=zE9CFg6Rp1)** *Andres Potapczynski, Ravi Kiran Selvam, Tatiana Konstantinova, Malcolm Wolff, Kin G. Olivares, Ruijun Ma, Michael W. Mahoney, Andrew Gordon Wilson, Boris N. Oreshkin, Dmitry Efimov*
+
+---
   
 ### Schedule
 
